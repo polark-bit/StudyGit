@@ -113,7 +113,7 @@
         <mxCell id="QtSlT0XpVhpVGylQuUNG-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="480" y="274" as="geometry" />
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-35" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-64" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=3;" value="">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-35" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-84" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-121" y="476" as="sourcePoint" />
             <mxPoint x="959.800048828125" y="476" as="targetPoint" />
@@ -233,11 +233,29 @@
         <mxCell id="QtSlT0XpVhpVGylQuUNG-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hotfix" vertex="1">
           <mxGeometry height="30" width="60" x="-195" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Release Tag" vertex="1">
-          <mxGeometry height="30" width="100" x="553" y="485" as="geometry" />
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Create Release&#39;s Tag： rel_2512A.1" vertex="1">
+          <mxGeometry height="30" width="117" x="543" y="482" as="geometry" />
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-83" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;position2=0.79;spacingLeft=5;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;1.&lt;a href=&quot;https://github.tools.sap/MLF-prod/mlf-gitops-prod/blob/release_candidate/.github/workflows/tag.yaml&quot;&gt;Create release Tag&lt;/a&gt; like rel_2512A.1&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;2. &lt;a href=&quot;https://github.tools.sap/MLF-prod/mlf-gitops-prod/blob/release_candidate/.github/workflows/release.yaml&quot;&gt;Publish this release&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="161" x="559" y="508" as="geometry" />
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-83" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;position2=0.61;spacingLeft=5;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;1.&lt;a href=&quot;https://github.tools.sap/MLF-prod/mlf-gitops-prod/blob/release_candidate/.github/workflows/tag.yaml&quot;&gt;Create release Tag&lt;/a&gt; like rel_2512A.1&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;2. &lt;a href=&quot;https://github.tools.sap/MLF-prod/mlf-gitops-prod/blob/release_candidate/.github/workflows/release.yaml&quot;&gt;Publish this release&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="161" x="537" y="508" as="geometry" />
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-85" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-64" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-84" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="604" y="476" as="sourcePoint" />
+            <mxPoint x="959.800048828125" y="476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-84" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="12" width="12" x="796" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-86" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="12" width="12" x="705" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Push PR" vertex="1">
+          <mxGeometry height="30" width="60" x="681" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Create Release&#39;s Tag: rel_2512A.2" vertex="1">
+          <mxGeometry height="30" width="117" x="743" y="485" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -10,13 +10,13 @@
             <mxPoint x="1035" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-1" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-33" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-1" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-33" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-120" y="280" as="sourcePoint" />
             <mxPoint x="974.4000244140625" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-12" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="QtSlT0XpVhpVGylQuUNG-11" value="">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-12" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-11" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-120" y="280" as="sourcePoint" />
             <mxPoint x="974.4000244140625" y="280" as="targetPoint" />
@@ -25,7 +25,7 @@
         <mxCell id="QtSlT0XpVhpVGylQuUNG-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="117" y="274" as="geometry" />
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-14" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-11" style="endArrow=none;html=1;rounded=0;" target="QtSlT0XpVhpVGylQuUNG-13" value="">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-14" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-11" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-13" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-73" y="280" as="sourcePoint" />
             <mxPoint x="974.4000244140625" y="280" as="targetPoint" />
@@ -56,6 +56,9 @@
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Main" vertex="1">
           <mxGeometry height="30" width="60" x="-210" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-63" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="QtSlT0XpVhpVGylQuUNG-25" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Schedule task" vertex="1">
           <mxGeometry height="30" width="100" x="233" y="286" as="geometry" />
@@ -96,26 +99,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="12" width="12" x="473" y="390" as="geometry" />
+          <mxGeometry height="12" width="12" x="754" y="390" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-32" edge="1" parent="1" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="478.5" y="291" as="sourcePoint" />
-            <mxPoint x="479" y="390" as="targetPoint" />
+            <mxPoint x="759.5" y="291" as="sourcePoint" />
+            <mxPoint x="760" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-34" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-43" style="endArrow=none;html=1;rounded=0;" target="QtSlT0XpVhpVGylQuUNG-33" value="">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-34" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-43" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-33" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="247" y="280" as="sourcePoint" />
             <mxPoint x="974.4000244140625" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="12" width="12" x="473" y="274" as="geometry" />
+          <mxGeometry height="12" width="12" x="754" y="274" as="geometry" />
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-35" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-41" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-35" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-122" y="483" as="sourcePoint" />
+            <mxPoint x="-120" y="480" as="sourcePoint" />
             <mxPoint x="960.800048828125" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -127,26 +130,20 @@
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-38" edge="1" parent="1" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="478" y="399" as="sourcePoint" />
-            <mxPoint x="478" y="480" as="targetPoint" />
+            <mxPoint x="759" y="399" as="sourcePoint" />
+            <mxPoint x="759" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="12" width="12" x="473" y="477" as="geometry" />
+          <mxGeometry height="12" width="12" x="754" y="477" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-40" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.19;position2=0.13;" value="&lt;div class=&quot;lake-content&quot; style=&quot;text-align: left;&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;div class=&quot;lake-content&quot; style=&quot;&quot;&gt;&lt;a href=&quot;https://github.tools.sap/MLF/mlf-gitops/blob/main/docs/release_process_and_branch_setup.md#branch-reconciliation-and-synchronization&quot; data-href=&quot;https://github.tools.sap/MLF/mlf-gitops/blob/main/docs/release_process_and_branch_setup.md#branch-reconciliation-and-synchronization&quot; target=&quot;_blank&quot; class=&quot;ne-link&quot; style=&quot;&quot;&gt;&lt;span class=&quot;ne-text&quot; style=&quot;&quot;&gt;reconcile_branches.sh&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lake-content&quot; style=&quot;text-align: left;&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Synchronize &lt;/span&gt;&lt;code class=&quot;ne-code&quot; style=&quot;font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, Courier, monospace; background-color: rgba(0, 0, 0, 0.06); border: 1px solid rgba(0, 0, 0, 0.08); border-radius: 2px; padding: 0px 2px;&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;mlf-gitops/integration&lt;/span&gt;&lt;/code&gt;&lt;span class=&quot;ne-text&quot;&gt; with &lt;/span&gt;&lt;code class=&quot;ne-code&quot; style=&quot;font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, Courier, monospace; background-color: rgba(0, 0, 0, 0.06); border: 1px solid rgba(0, 0, 0, 0.08); border-radius: 2px; padding: 0px 2px;&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;mlf-gitops-prod/release_candidate&lt;/span&gt;&lt;/code&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="172" x="466" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-42" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="QtSlT0XpVhpVGylQuUNG-41" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-122" y="483" as="sourcePoint" />
-            <mxPoint x="960.800048828125" y="480" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry height="120" width="172" x="747" y="150" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="355" y="474" as="geometry" />
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-44" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-13" style="endArrow=none;html=1;rounded=0;" target="QtSlT0XpVhpVGylQuUNG-43" value="">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-44" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-13" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-43" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="247" y="280" as="sourcePoint" />
             <mxPoint x="473" y="280" as="targetPoint" />
@@ -164,8 +161,26 @@
         <mxCell id="QtSlT0XpVhpVGylQuUNG-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Schedule task" vertex="1">
           <mxGeometry height="30" width="100" x="311" y="486" as="geometry" />
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-53" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;position2=0.3;spacingLeft=5;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;a href=&quot;https://github.tools.sap/MLF-prod/mlf-gitops-prod/blob/release_candidate/.github/workflows/auto-reconcile-main.yaml&quot;&gt;Auto-create PR for release_candidate to main&lt;/a&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="94" width="153" x="233" y="516" as="geometry" />
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-53" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;position2=0.59;spacingLeft=5;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;a href=&quot;https://github.tools.sap/MLF-prod/mlf-gitops-prod/blob/release_candidate/.github/workflows/auto-reconcile-main.yaml&quot;&gt;Auto-create PR for release_candidate to main&lt;/a&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="94" width="153" x="308" y="516" as="geometry" />
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-54" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="12" width="12" x="77" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Push PR" vertex="1">
+          <mxGeometry height="30" width="60" x="88" y="486" as="geometry" />
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-57" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;position2=0.15;spacingLeft=5;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;a href=&quot;https://github.tools.sap/MLF-prod/mlf-gitops-prod/blob/release_candidate/.github/workflows/lints.yaml&quot;&gt;Validate Pull Request&lt;/a&gt;&lt;/span&gt;&lt;div&gt;Validate schema etc.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="94" width="153" x="-70" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-58" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;position2=0.3;spacingLeft=5;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;a href=&quot;https://github.tools.sap/MLF-prod/mlf-gitops-prod/blob/release_candidate/.github/workflows/nightly-validation-labeller.yaml&quot;&gt;Label all PRs with failed checks&lt;/a&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="94" width="153" x="126" y="516" as="geometry" />
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Schedule task" vertex="1">
+          <mxGeometry height="30" width="100" x="178" y="486" as="geometry" />
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-60" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="12" width="12" x="236" y="474" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

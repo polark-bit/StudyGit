@@ -10,7 +10,7 @@
             <mxPoint x="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-1" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-33" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" value="">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-1" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-183" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-120" y="232" as="sourcePoint" />
             <mxPoint x="974.4000244140625" y="232" as="targetPoint" />
@@ -104,7 +104,7 @@
             <mxPoint x="486" y="292" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-34" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-43" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-33" value="">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-34" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-183" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-33" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="247" y="232" as="sourcePoint" />
             <mxPoint x="974.4000244140625" y="232" as="targetPoint" />
@@ -469,8 +469,8 @@
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-178" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="800" y="590" as="sourcePoint" />
-            <mxPoint x="799" y="486" as="targetPoint" />
+            <mxPoint x="804" y="590" as="sourcePoint" />
+            <mxPoint x="803" y="486" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-180" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="QtSlT0XpVhpVGylQuUNG-82" value="">
@@ -481,6 +481,27 @@
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-181" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;对于warm fix，不是很清楚部署的时间关系，因为没看到在preprod后直接部署canary环境&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="-270" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-182" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.065;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="798.8000000000002" y="592" as="sourcePoint" />
+            <mxPoint x="798" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-184" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-43" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-183" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="367" y="232" as="sourcePoint" />
+            <mxPoint x="480" y="232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-185" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-33" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-183" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="492" y="232" as="sourcePoint" />
+            <mxPoint x="974.4000244140625" y="232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-183" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="12" width="12" x="795" y="226" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

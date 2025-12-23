@@ -31,7 +31,7 @@
             <mxPoint x="974.4000244140625" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="235" y="274" as="geometry" />
         </mxCell>
         <object label="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;a href=&quot;https://github.tools.sap/MLF/mlf-gitops/actions/workflows/preflight-checks.yaml&quot; style=&quot;background-color: transparent;&quot;&gt;Preflight Check&lt;/a&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Verify deployability of kustomize yaml&lt;/font&gt;&lt;/div&gt;" prefligh="" id="QtSlT0XpVhpVGylQuUNG-15">
@@ -42,8 +42,8 @@
         <mxCell id="QtSlT0XpVhpVGylQuUNG-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Push PR" vertex="1">
           <mxGeometry height="30" width="60" x="90" y="286" as="geometry" />
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-17" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;mlf-ops&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Tag&lt;/b&gt;: cluster tag seems no use&lt;/p&gt;&lt;p&gt;&lt;b&gt;Branch&lt;/b&gt;: only 2 cluster branch used for daily test;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Lots of Release-candidate-***;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; some RELEASE_25**;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="270" x="-495" y="166" as="geometry" />
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-17" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;mlf-ops&lt;/h1&gt;&lt;p&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Branch&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;: only 2 cluster branch;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;some RELEASE_25**;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tag&lt;/b&gt;: cluster tag seems no use&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="195" x="-495" y="166" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-19" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-24" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -122,8 +122,8 @@
         <mxCell id="QtSlT0XpVhpVGylQuUNG-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Relese_candidate&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="108" x="-247" y="463" as="geometry" />
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-37" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;mlf-gitops-prod&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Tag&lt;/b&gt;: cluster tag seems no use&lt;/p&gt;&lt;p&gt;&lt;b&gt;Branch&lt;/b&gt;: only 2 cluster branch used for daily test;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Lots of Release-candidate-***;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; some RELEASE_25**;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="270" x="-502" y="410" as="geometry" />
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-37" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;mlf-gitops-prod&lt;/h1&gt;&lt;p&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Branch&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;: Release_candidate &amp;amp; hotfix-branch&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tag&lt;/b&gt;: cluster tag &amp;amp; release tag&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="270" x="-502" y="370" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-38" edge="1" parent="1" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -173,7 +173,7 @@
             <mxPoint x="959.800048828125" y="476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-64" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-64" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="592" y="470" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-66" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
@@ -185,7 +185,7 @@
             <mxPoint x="592" y="476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-67" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-67" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="354" y="470" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-70" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-71" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-69" value="">
@@ -194,7 +194,7 @@
             <mxPoint x="354" y="476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-69" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-69" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="232" y="470" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-72" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-78" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-71" value="">
@@ -221,7 +221,7 @@
             <mxPoint x="77" y="479" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-78" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-78" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="-46" y="470" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-80" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QtSlT0XpVhpVGylQuUNG-78" value="">
@@ -230,8 +230,8 @@
             <mxPoint x="-33" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hotfix" vertex="1">
-          <mxGeometry height="30" width="60" x="-195" y="420" as="geometry" />
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hotfix-branch" vertex="1">
+          <mxGeometry height="30" width="75" x="-210" y="420" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Create Release&#39;s Tag： rel_2512A.1" vertex="1">
           <mxGeometry height="30" width="117" x="543" y="482" as="geometry" />
@@ -245,7 +245,7 @@
             <mxPoint x="959.800048828125" y="476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-84" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-84" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="878" y="470" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-86" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
@@ -263,7 +263,7 @@
             <mxPoint x="926" y="476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-91" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-91" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="716" y="472" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-95" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endWidth=8;endSize=7.43;" value="">
@@ -284,7 +284,7 @@
             <mxPoint x="1280" y="476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-100" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-100" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="956" y="470" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-102" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endWidth=8;endSize=7.43;" value="">
@@ -317,7 +317,7 @@
         <mxCell id="QtSlT0XpVhpVGylQuUNG-109" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="Prod ENV" vertex="1">
           <mxGeometry height="30" width="60" x="15" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-111" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-111" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="1118" y="470" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-112" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
@@ -335,7 +335,7 @@
             <mxPoint x="1520" y="476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-116" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-116" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="1196" y="470" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-117" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endWidth=8;endSize=7.43;" value="">

@@ -12,106 +12,106 @@
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-1" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-33" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-120" y="280" as="sourcePoint" />
-            <mxPoint x="974.4000244140625" y="280" as="targetPoint" />
+            <mxPoint x="-120" y="232" as="sourcePoint" />
+            <mxPoint x="974.4000244140625" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-12" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-11" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-120" y="280" as="sourcePoint" />
-            <mxPoint x="974.4000244140625" y="280" as="targetPoint" />
+            <mxPoint x="-120" y="232" as="sourcePoint" />
+            <mxPoint x="974.4000244140625" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="" vertex="1">
-          <mxGeometry height="12" width="12" x="117" y="274" as="geometry" />
+          <mxGeometry height="12" width="12" x="117" y="226" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-14" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-11" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-13" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-73" y="280" as="sourcePoint" />
-            <mxPoint x="974.4000244140625" y="280" as="targetPoint" />
+            <mxPoint x="-73" y="232" as="sourcePoint" />
+            <mxPoint x="974.4000244140625" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="" vertex="1">
-          <mxGeometry height="12" width="12" x="235" y="274" as="geometry" />
+          <mxGeometry height="12" width="12" x="235" y="226" as="geometry" />
         </mxCell>
         <object label="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;a href=&quot;https://github.tools.sap/MLF/mlf-gitops/actions/workflows/preflight-checks.yaml&quot; style=&quot;background-color: transparent;&quot;&gt;Preflight Check&lt;/a&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Verify deployability of kustomize yaml&lt;/font&gt;&lt;/div&gt;" prefligh="" id="QtSlT0XpVhpVGylQuUNG-15">
           <mxCell parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.79;strokeWidth=1;fontSize=15;spacingTop=1;spacingLeft=5;base=17;" vertex="1">
-            <mxGeometry height="90" width="140" y="175" as="geometry" />
+            <mxGeometry height="90" width="140" y="127" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Push PR" vertex="1">
-          <mxGeometry height="30" width="60" x="90" y="286" as="geometry" />
+          <mxGeometry height="30" width="60" x="90" y="238" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-17" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;a href=&quot;https://github.tools.sap/MLF/mlf-gitops&quot;&gt;mlf-ops&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Branch&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;: only 2 cluster branch;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;some RELEASE_25**;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tag&lt;/b&gt;: cluster tag seems no use&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="195" x="-510" y="166" as="geometry" />
+          <mxGeometry height="120" width="195" x="-510" y="118" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-19" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-24" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-118" y="320" as="sourcePoint" />
-            <mxPoint x="960" y="320" as="targetPoint" />
+            <mxPoint x="-118" y="272" as="sourcePoint" />
+            <mxPoint x="960" y="272" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cluster/aws.eu-central-1.dev-pot&lt;div&gt;cluster/aws.eu-central-1.stage-eu&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="213" x="-325" y="306" as="geometry" />
+          <mxGeometry height="30" width="213" x="-325" y="258" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Main&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="-210" y="265" as="geometry" />
+          <mxGeometry height="30" width="60" x="-210" y="217" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Schedule task" vertex="1">
-          <mxGeometry height="30" width="100" x="235" y="276" as="geometry" />
+          <mxGeometry height="30" width="100" x="235" y="228" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-23" edge="1" parent="1" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="239" y="290" as="sourcePoint" />
-            <mxPoint x="240" y="310" as="targetPoint" />
+            <mxPoint x="239" y="242" as="sourcePoint" />
+            <mxPoint x="240" y="262" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object label="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; text-align: center;&quot;&gt;&lt;a href=&quot;https://github.tools.sap/MLF/mlf-gitops/blob/main/.github/workflows/promote-main-to-cluster-branches.yaml&quot;&gt;Promote main to cluster branches &lt;font size=&quot;1&quot;&gt;and run test&lt;/font&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;" prefligh="" id="QtSlT0XpVhpVGylQuUNG-25">
           <mxCell parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.69;strokeWidth=1;fontSize=15;spacingTop=1;spacingLeft=5;base=17;" vertex="1">
-            <mxGeometry height="90" width="140" x="148" y="175" as="geometry" />
+            <mxGeometry height="90" width="140" x="148" y="127" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-27" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="QtSlT0XpVhpVGylQuUNG-24" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-118" y="320" as="sourcePoint" />
-            <mxPoint x="614" y="320" as="targetPoint" />
+            <mxPoint x="-118" y="272" as="sourcePoint" />
+            <mxPoint x="614" y="272" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="12" width="12" x="235" y="315" as="geometry" />
+          <mxGeometry height="12" width="12" x="235" y="267" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-28" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-30" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-120" y="360" as="sourcePoint" />
-            <mxPoint x="960" y="360" as="targetPoint" />
+            <mxPoint x="-120" y="312" as="sourcePoint" />
+            <mxPoint x="960" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Integration" vertex="1">
-          <mxGeometry height="30" width="60" x="-195" y="350" as="geometry" />
+          <mxGeometry height="30" width="60" x="-195" y="302" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="QtSlT0XpVhpVGylQuUNG-30" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-120" y="360" as="sourcePoint" />
-            <mxPoint x="960" y="360" as="targetPoint" />
+            <mxPoint x="-120" y="312" as="sourcePoint" />
+            <mxPoint x="960" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="12" width="12" x="480" y="350" as="geometry" />
+          <mxGeometry height="12" width="12" x="480" y="302" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-32" edge="1" parent="1" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QtSlT0XpVhpVGylQuUNG-30" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="485.5" y="291" as="sourcePoint" />
-            <mxPoint x="486" y="340" as="targetPoint" />
+            <mxPoint x="485.5" y="243" as="sourcePoint" />
+            <mxPoint x="486" y="292" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-34" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-43" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-33" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="247" y="280" as="sourcePoint" />
-            <mxPoint x="974.4000244140625" y="280" as="targetPoint" />
+            <mxPoint x="247" y="232" as="sourcePoint" />
+            <mxPoint x="974.4000244140625" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="12" width="12" x="480" y="274" as="geometry" />
+          <mxGeometry height="12" width="12" x="480" y="226" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-35" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-100" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -123,37 +123,37 @@
           <mxGeometry height="30" width="108" x="-247" y="463" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-37" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;a href=&quot;https://github.tools.sap/MLF-prod/mlf-gitops-prod&quot;&gt;mlf-gitops-prod&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Branch&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;: Release_candidate &amp;amp; hotfix-branch&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tag&lt;/b&gt;: cluster tag &amp;amp; release tag&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="270" x="-525" y="365" as="geometry" />
+          <mxGeometry height="120" width="270" x="-525" y="383" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-38" edge="1" parent="1" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="483.5" y="362" as="sourcePoint" />
-            <mxPoint x="484" y="470" as="targetPoint" />
+            <mxPoint x="487" y="320" as="sourcePoint" />
+            <mxPoint x="487" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-40" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.19;position2=0.13;" value="&lt;div class=&quot;lake-content&quot; style=&quot;text-align: left;&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;div class=&quot;lake-content&quot; style=&quot;&quot;&gt;&lt;a href=&quot;https://github.tools.sap/MLF/mlf-gitops/blob/main/docs/release_process_and_branch_setup.md#branch-reconciliation-and-synchronization&quot; data-href=&quot;https://github.tools.sap/MLF/mlf-gitops/blob/main/docs/release_process_and_branch_setup.md#branch-reconciliation-and-synchronization&quot; target=&quot;_blank&quot; class=&quot;ne-link&quot; style=&quot;&quot;&gt;&lt;span class=&quot;ne-text&quot; style=&quot;&quot;&gt;reconcile_branches.sh&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lake-content&quot; style=&quot;text-align: left;&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Synchronize &lt;/span&gt;&lt;code class=&quot;ne-code&quot; style=&quot;font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, Courier, monospace; background-color: rgba(0, 0, 0, 0.06); border: 1px solid rgba(0, 0, 0, 0.08); border-radius: 2px; padding: 0px 2px;&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;mlf-gitops/integration&lt;/span&gt;&lt;/code&gt;&lt;span class=&quot;ne-text&quot;&gt; with &lt;/span&gt;&lt;code class=&quot;ne-code&quot; style=&quot;font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, Courier, monospace; background-color: rgba(0, 0, 0, 0.06); border: 1px solid rgba(0, 0, 0, 0.08); border-radius: 2px; padding: 0px 2px;&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;mlf-gitops-prod/release_candidate&lt;/span&gt;&lt;/code&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="172" x="473" y="150" as="geometry" />
+          <mxGeometry height="120" width="172" x="473" y="102" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-44" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-13" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-43" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="247" y="280" as="sourcePoint" />
-            <mxPoint x="473" y="280" as="targetPoint" />
+            <mxPoint x="247" y="232" as="sourcePoint" />
+            <mxPoint x="473" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="12" width="12" x="355" y="274" as="geometry" />
+          <mxGeometry height="12" width="12" x="355" y="226" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-45" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="360" y="470" as="sourcePoint" />
-            <mxPoint x="360" y="290" as="targetPoint" />
+            <mxPoint x="360" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Schedule task" vertex="1">
           <mxGeometry height="30" width="100" x="311" y="476" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-53" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=east;position2=0.06;spacingLeft=5;" value="&lt;font&gt;&lt;a href=&quot;https://github.tools.sap/MLF-prod/mlf-gitops-prod/blob/release_candidate/.github/workflows/auto-reconcile-main.yaml&quot; style=&quot;&quot;&gt;Auto-create PR for release_candidate to main&lt;/a&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="93" width="110" x="363" y="380" as="geometry" />
+          <mxGeometry height="93" width="110" x="367" y="380" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Push PR" vertex="1">
           <mxGeometry height="30" width="60" x="57" y="476" as="geometry" />
@@ -177,7 +177,7 @@
           <mxGeometry height="12" width="12" x="592" y="470" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-66" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="12" width="12" x="478" y="472" as="geometry" />
+          <mxGeometry height="12" width="12" x="482" y="472" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-68" edge="1" parent="1" source="QtSlT0XpVhpVGylQuUNG-69" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=3;" target="QtSlT0XpVhpVGylQuUNG-67" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -225,7 +225,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hotfix-branch" vertex="1">
-          <mxGeometry height="30" width="75" x="-210" y="420" as="geometry" />
+          <mxGeometry height="30" width="75" x="-214" y="524" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Create Release&#39;s Tag： rel_2512A.1" vertex="1">
           <mxGeometry height="30" width="117" x="543" y="482" as="geometry" />

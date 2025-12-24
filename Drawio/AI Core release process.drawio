@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="Page-1" id="QBJeYm4lsAIHv42YLfiE">
-    <mxGraphModel dx="1428" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15" pageHeight="750" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15" pageHeight="750" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -434,7 +434,7 @@
             <mxPoint x="243" y="303" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtSlT0XpVhpVGylQuUNG-169" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;此处是Cold fix&lt;/font&gt;" vertex="1">
+        <mxCell id="QtSlT0XpVhpVGylQuUNG-169" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;Cold fix process&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="788" y="565" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-170" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;此处直接merge还是通过hotfix-branch&lt;/font&gt;" vertex="1">

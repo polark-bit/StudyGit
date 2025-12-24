@@ -474,7 +474,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-181" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;对于warm fix，不是很清楚部署的时间关系，因为没看到在preprod后直接部署canary环境&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="623" y="650" as="geometry" />
+          <mxGeometry height="30" width="150" x="792" y="660" as="geometry" />
         </mxCell>
         <mxCell id="QtSlT0XpVhpVGylQuUNG-182" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.065;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">

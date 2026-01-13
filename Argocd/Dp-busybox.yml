@@ -10,7 +10,7 @@ metadata:
     app: busybox
 spec:
   # 副本数，按需修改，默认1个Pod
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
       app: busybox

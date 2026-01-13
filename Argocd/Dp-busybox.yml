@@ -2,26 +2,30 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   # deployment名称，可自定义
-  name: busybox-deployment
+  name: argocd-busybox
   # 所属命名空间，默认default，可自定义
   namespace: test-argocd
   # 自定义标签，可选
   labels:
-    app: busybox
+    app: busybox-argocd
 spec:
   # 副本数，按需修改，默认1个Pod
   replicas: 2
   selector:
     matchLabels:
-      app: busybox
+      app: busybox-argocd
   # Pod模板核心配置
   template:
     metadata:
       labels:
-        app: busybox
+        app: busybox-argocd
     spec:
       containers:
-      - name: busybox
+      - name: busybox-argocd
         # 使用官方最新稳定版busybox镜像，也可以写具体版本如 busybox:1.36.1
         image: busybox:latest
         # 关键命令：让busybox常驻后台运行，防止Pod启动后立即退出(Completed)
+        imagePullPolicy: IfNotPresent
+        # 核心常驻命令
+        command: ["/bin/sh"]
+        args: ["-c", "sleep infinity"]

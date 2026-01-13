@@ -4,7 +4,7 @@ metadata:
   # deployment名称，可自定义
   name: busybox-deployment
   # 所属命名空间，默认default，可自定义
-  namespace: Test-argocd
+  namespace: test-argocd
   # 自定义标签，可选
   labels:
     app: busybox

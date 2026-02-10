@@ -1,14 +1,53 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.2.9">
   <diagram name="Page-1" id="WU1aQ6R0aBonu499355e">
-    <mxGraphModel dx="3653" dy="3174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15" pageHeight="750" math="0" shadow="0">
+    <mxGraphModel dx="3414" dy="3924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15" pageHeight="750" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HisjigNUrc_OGdf7XeUD-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-1187" y="-2240" as="sourcePoint" />
-            <mxPoint x="1200" y="-2240" as="targetPoint" />
+            <mxPoint x="-1187" y="-2380.79" as="sourcePoint" />
+            <mxPoint x="1020" y="-2409.9959991177766" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="170" width="440" x="-660" y="-2350" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="270" width="440" x="-662" y="-2140" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="242" x="-1164" y="-2300" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Repo:&amp;nbsp;aicore-platform/aicore-mcp&lt;div&gt;path:&amp;nbsp;distribution/umbrella/overlays/ENV&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="215" x="-1159" y="-2300" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;引用aicore-actions/release-workflows中&lt;/div&gt;00.yaml，通过kubectl apply部署" vertex="1">
+          <mxGeometry height="30" width="252" x="-912" y="-2310" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;labelBackgroundColor=default;fontSize=15;" value="MCP seed" vertex="1">
+          <mxGeometry height="40" width="107" x="-487" y="-2370" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="332" x="-652" y="-2330" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="NS:&amp;nbsp;project-aicore-cloud-orchestrator--ws-ali" vertex="1">
+          <mxGeometry height="30" width="290" x="-622" y="-2345" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-25" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBorderColor=default;spacingTop=1;spacingLeft=0;spacingRight=3;align=left;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ManagedControlPlane&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;MCP CRD：应该是负责安装和管理MCP相关的资源，比如crossplane，btp，flux,&amp;nbsp; externalSecrets等&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="212" x="-638" y="-2325" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KIh15M4zcNcyPIyLY1yR-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-919" y="-2270.5" as="sourcePoint" />
+            <mxPoint x="-686" y="-2270.2161997563944" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="242" x="-1159" y="-2090" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Repo:&amp;nbsp;aicore-platform/aicore-mcp&lt;div&gt;path:&amp;nbsp;distribution/umbrella/overlays/ENV&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="215" x="-1155" y="-2090" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

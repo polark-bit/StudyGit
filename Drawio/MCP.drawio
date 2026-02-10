@@ -1,125 +1,302 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.2.9">
   <diagram name="Page-1" id="WU1aQ6R0aBonu499355e">
-    <mxGraphModel dx="3414" dy="3924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15" pageHeight="750" math="0" shadow="0">
+    <mxGraphModel dx="3399" dy="3924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15" pageHeight="750" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HisjigNUrc_OGdf7XeUD-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-1187" y="-2380.79" as="sourcePoint" />
-            <mxPoint x="1020" y="-2409.9959991177766" as="targetPoint" />
+            <mxPoint x="-1185" y="-2590.79" as="sourcePoint" />
+            <mxPoint x="350" y="-2590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="170" width="440" x="-660" y="-2350" as="geometry" />
+          <mxGeometry height="170" width="380" x="-660" y="-2350" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="510" width="440" x="-662" y="-2140" as="geometry" />
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="750" width="442" x="-662" y="-2140" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="274" x="-1159" y="-2300" as="geometry" />
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-mcp&lt;div&gt;path:&amp;nbsp;distribution/umbrella/overlays/ENV&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="215" x="-1150" y="-2300" as="geometry" />
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;引用aicore-actions/release-workflows中&lt;/div&gt;00.yaml，通过kubectl apply部署" vertex="1">
-          <mxGeometry height="30" width="222" x="-889" y="-2315" as="geometry" />
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;引用aicore-actions/release-workflows中&lt;/div&gt;00.yaml，通过kubectl apply部署" vertex="1">
+          <mxGeometry height="45" width="160" x="-830" y="-2325" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;labelBackgroundColor=default;fontSize=15;" value="MCP seed" vertex="1">
           <mxGeometry height="40" width="107" x="-487" y="-2370" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="120" width="332" x="-652" y="-2330" as="geometry" />
+          <mxGeometry height="120" width="302" x="-652" y="-2330" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="NS:&amp;nbsp;project-aicore-cloud-orchestrator--ws-ali" vertex="1">
-          <mxGeometry height="30" width="290" x="-622" y="-2345" as="geometry" />
+          <mxGeometry height="30" width="290" x="-648" y="-2347" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-25" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBorderColor=default;spacingTop=1;spacingLeft=0;spacingRight=3;align=left;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ManagedControlPlane&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;MCP CRD：应该是负责安装和管理MCP相关的资源，比如crossplane，btp，flux,&amp;nbsp; externalSecrets等&lt;/p&gt;" vertex="1">
-          <mxGeometry height="110" width="212" x="-638" y="-2325" as="geometry" />
+          <mxGeometry height="110" width="248" x="-638" y="-2325" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KIh15M4zcNcyPIyLY1yR-25" value="">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" target="KIh15M4zcNcyPIyLY1yR-25" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-880" y="-2270" as="sourcePoint" />
+            <mxPoint x="-840" y="-2270" as="sourcePoint" />
             <mxPoint x="-686" y="-2270.2161997563944" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="289" x="-1162" y="-2100" as="geometry" />
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;1. 初次部署通过&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;03.yaml kubectl apply命令&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. 后续通过flux自动同步&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. 通过03.yaml更新Tag&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="-824.5" y="-2165" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-flux&lt;div&gt;path:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;distribution/umbrella/overlays/ENV/flux-system&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="300" x="-1158" y="-2100" as="geometry" />
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过flux自动同步&lt;/span&gt;&lt;/div&gt;&lt;div&gt;通过03.yaml更新Tag&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="125" x="-815" y="-2035" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;1. 初次部署通过&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;03.yaml or 04.yaml的kubectl apply命令&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. 后续通过flux自动同步&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="170" x="-855" y="-2110" as="geometry" />
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="312" x="-1162" y="-2000" as="geometry" />
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-flux&lt;div&gt;path:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;distribution/umbrella/overlays/ENV/crossplane-system&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="268" x="-1158" y="-2000" as="geometry" />
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过flux自动同步&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="105" x="-825" y="-2000" as="geometry" />
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="289" x="-1160" y="-1910" as="geometry" />
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-controlplane&lt;div&gt;path:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;distribution/umbrella/overlays/ENV/core&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="300" x="-1156" y="-1910" as="geometry" />
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="289" x="-1159" y="-1820" as="geometry" />
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-controlplane&lt;div&gt;path:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;distribution/umbrella/overlays/ENV/config&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="300" x="-1155" y="-1820" as="geometry" />
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="289" x="-1158" y="-1730" as="geometry" />
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-claims&lt;div&gt;path:&amp;nbsp;manifests/distribution/umbrella/ENV&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="300" x="-1154" y="-1730" as="geometry" />
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-39" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-39" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-870" y="-2070.5" as="sourcePoint" />
-            <mxPoint x="-628" y="-2070.5" as="targetPoint" />
+            <mxPoint x="-840" y="-2095" as="sourcePoint" />
+            <mxPoint x="-628" y="-2095.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-847" y="-1970" as="sourcePoint" />
-            <mxPoint x="-605" y="-1970" as="targetPoint" />
+            <mxPoint x="-840" y="-1995" as="sourcePoint" />
+            <mxPoint x="-630" y="-1995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过flux自动同步&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="105" x="-847" y="-1910" as="geometry" />
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过flux自动同步&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过03.yaml更新Tag&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="128" x="-814" y="-1938" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-42" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-42" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-869" y="-1880" as="sourcePoint" />
-            <mxPoint x="-627" y="-1880" as="targetPoint" />
+            <mxPoint x="-840" y="-1898" as="sourcePoint" />
+            <mxPoint x="-627" y="-1898" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过flux自动同步&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="105" x="-847" y="-1820" as="geometry" />
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过flux自动同步&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过03.yaml更新Tag&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="137" x="-810" y="-1848" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-44" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-44" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-869" y="-1790" as="sourcePoint" />
-            <mxPoint x="-627" y="-1790" as="targetPoint" />
+            <mxPoint x="-830" y="-1808" as="sourcePoint" />
+            <mxPoint x="-627" y="-1808" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过flux自动同步&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="105" x="-847" y="-1730" as="geometry" />
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过flux自动同步&lt;/span&gt;&lt;/div&gt;&lt;div&gt;通过05.yaml更新Tag&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="147" x="-799" y="-1623" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-46" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-46" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-869" y="-1700" as="sourcePoint" />
-            <mxPoint x="-627" y="-1700" as="targetPoint" />
+            <mxPoint x="-840" y="-1583" as="sourcePoint" />
+            <mxPoint x="-627" y="-1583" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;labelBackgroundColor=default;fontSize=15;" value="MCP (Preprod-cn40)" vertex="1">
           <mxGeometry height="40" width="162" x="-512" y="-2160" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="90" width="280" x="-630" y="-2120" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="5个flux repo+path对象，用于MCP资源同步" vertex="1">
+          <mxGeometry height="26" width="253.5" x="-613.5" y="-2107" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;github-tool-secret等secret，用于接入git&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="243.5" x="-613.5" y="-2069" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-54" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="200" width="84" x="-154" y="-2140" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="Vault" vertex="1">
+          <mxGeometry height="30" width="60" x="-148" y="-2140" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-57" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-160" y="-2054" as="sourcePoint" />
+            <mxPoint x="-370" y="-2054.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-59" parent="1" style="text;whiteSpace=wrap;" value="namespace: &#xa;artificial-intelligence/aicore" vertex="1">
+          <mxGeometry height="40" width="240" x="-154" y="-2090" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="-627" y="-2010" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;生成大量命名格式为*-provider-secret的secret，用于crossplane中provider的接入&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="243.5" x="-615" y="-2000" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-62" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-160" y="-1980" as="sourcePoint" />
+            <mxPoint x="-370" y="-1980.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="-625" y="-1910" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;生成providerconfig，主要定义provider连接&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的认证凭证；secret源就是上面&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="243.5" x="-613" y="-1900" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-68" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-428" y="-1957" as="sourcePoint" />
+            <mxPoint x="-428" y="-1902" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-69" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-200" y="-2090" as="sourcePoint" />
+            <mxPoint x="-154" y="-2090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-71" edge="1" parent="1" source="KIh15M4zcNcyPIyLY1yR-2" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=blockThin;startFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-220" y="-2265" as="sourcePoint" />
+            <mxPoint x="-200" y="-2265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-72" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-201" y="-2265" as="sourcePoint" />
+            <mxPoint x="-199" y="-2090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-74" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="274" x="-1114" y="-2300" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-11" parent="KIh15M4zcNcyPIyLY1yR-74" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="294" x="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-12" parent="KIh15M4zcNcyPIyLY1yR-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-mcp&lt;div&gt;path:&amp;nbsp;distribution/umbrella/overlays/ENV&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="215" x="9" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-75" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="322" x="-1150" y="-2125" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-26" parent="KIh15M4zcNcyPIyLY1yR-75" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="306.1118421052631" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-27" parent="KIh15M4zcNcyPIyLY1yR-75" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-flux&lt;div&gt;path:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;distribution/umbrella/overlays/ENV/flux-system&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="317.7631578947368" x="4.2368421052631575" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-76" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="312" x="-1153" y="-2025" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-29" parent="KIh15M4zcNcyPIyLY1yR-76" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="312" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-30" parent="KIh15M4zcNcyPIyLY1yR-76" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-flux&lt;div&gt;path:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;distribution/umbrella/overlays/ENV/crossplane-system&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="268" x="4" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-77" connectable="0" parent="1" style="group;fontSize=13;" value="" vertex="1">
+          <mxGeometry height="60" width="332" x="-1160" y="-1928" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-32" parent="KIh15M4zcNcyPIyLY1yR-77" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="315.61842105263156" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-33" parent="KIh15M4zcNcyPIyLY1yR-77" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-controlplane&lt;div&gt;path:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;distribution/umbrella/overlays/ENV/config&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="327.6315789473684" x="4.368421052631579" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-78" connectable="0" parent="1" style="group;fontSize=13;" value="" vertex="1">
+          <mxGeometry height="60" width="329" x="-1159" y="-1838" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-35" parent="KIh15M4zcNcyPIyLY1yR-78" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="328.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-36" parent="KIh15M4zcNcyPIyLY1yR-78" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-controlplane&lt;div&gt;path:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;distribution/umbrella/overlays/ENV/core&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="324.4463667820069" x="4.553633217993079" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-79" connectable="0" parent="1" style="group;fontSize=13;" value="" vertex="1">
+          <mxGeometry height="60" width="330" x="-1158" y="-1613" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-37" parent="KIh15M4zcNcyPIyLY1yR-79" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-38" parent="KIh15M4zcNcyPIyLY1yR-79" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-claims&lt;div&gt;path:&amp;nbsp;manifests/distribution/umbrella/ENV&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="326" x="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="200" width="277" x="-627" y="-1820" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;Ali(或其他hyperscaler）提供的Provider，比如oss，ram等&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="258" x="-618" y="-1780" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;SAP提供的Provider资源，比如btp，cf等&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="258" x="-618" y="-1810" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;Common资源，比如runtimeconfig，公用的function，provider(http, k8s)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="258" x="-618" y="-1730" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;Configuration资源，不同provider所提供xrd/composition资源的package&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="260.75" x="-620.75" y="-1680" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-88" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="90" width="329" x="-1162" y="-1721" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-89" parent="KIh15M4zcNcyPIyLY1yR-88" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="77.14285714285714" width="328.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-90" parent="KIh15M4zcNcyPIyLY1yR-88" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/configuration-*-*&lt;div&gt;比如configuration-btp-module, configuraion-gardener-shoot, configuration-secret- replicate, configuration-ali-module等, XRD/composition的具体定义&lt;/div&gt;" vertex="1">
+          <mxGeometry height="101.25" width="324.45" x="4" y="-12.048750000000041" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="build后上传到docker repo供下载" vertex="1">
+          <mxGeometry height="30" width="117" x="-808.5" y="-1706" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-94" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-620" y="-1671.5" as="sourcePoint" />
+            <mxPoint x="-830" y="-1671" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="200" width="277" x="-624" y="-1600" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;Ali(或其他hyperscaler）提供的Provider，比如oss，ram等&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="258" x="-615" y="-1560" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;SAP提供的Provider资源，比如btp，cf等&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="258" x="-615" y="-1590" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;Common资源，比如runtimeconfig，公用的function，provider(http, k8s)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="258" x="-615" y="-1510" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;Configuration资源，不同provider所提供xrd/composition资源的package&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="260.75" x="-617.75" y="-1460" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;fontColor=light-dark(#000000,#9933FF);" value="Git Repositories" vertex="1">
+          <mxGeometry height="30" width="232" x="-1102" y="-2440" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;fontColor=light-dark(#000000,#9933FF);labelBackgroundColor=default;" value="Controlplane Clusters" vertex="1">
+          <mxGeometry height="30" width="232" x="-599" y="-2440" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;fontColor=light-dark(#000000,#9933FF);labelBackgroundColor=default;" value="AI Core Clusters" vertex="1">
+          <mxGeometry height="30" width="232" x="-18" y="-2440" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-105" connectable="0" parent="1" style="group;fontSize=13;" value="" vertex="1">
+          <mxGeometry height="60" width="330" x="-1162" y="-1510" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-106" parent="KIh15M4zcNcyPIyLY1yR-105" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-107" parent="KIh15M4zcNcyPIyLY1yR-105" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-claims&lt;div&gt;path: distribution/umbrella/ENV&lt;/div&gt;&lt;div&gt;功能：属于dry manifest，主要用于调试&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="326" x="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-108" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="90" width="329" x="-1162" y="-1390" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-109" parent="KIh15M4zcNcyPIyLY1yR-108" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="71" width="329" y="-11" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-110" parent="KIh15M4zcNcyPIyLY1yR-108" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/component-btp-module&lt;div&gt;Repo: aicore-platform/component-gardener-module&lt;/div&gt;&lt;div&gt;功能：&lt;/div&gt;" vertex="1">
+          <mxGeometry height="59.2" width="324.45" x="2.2800000000000002" y="-11" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-111" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1020" y="-1510" as="sourcePoint" />
+            <mxPoint x="-1020" y="-1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="生成 wet manifest" vertex="1">
+          <mxGeometry height="30" width="147" x="-1017" y="-1546" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-113" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1021" y="-1448.2" as="sourcePoint" />
+            <mxPoint x="-1020" y="-1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="调用component资源" vertex="1">
+          <mxGeometry height="30" width="147" x="-1009" y="-1440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

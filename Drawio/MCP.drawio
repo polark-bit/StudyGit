@@ -31,11 +31,8 @@
             <mxPoint x="-686" y="-2270.2161997563944" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;1. 初次部署通过&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;03.yaml kubectl apply命令&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. 后续通过flux自动同步&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. 通过03.yaml更新Tag&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="170" x="-824.5" y="-2165" as="geometry" />
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过flux自动同步&lt;/span&gt;&lt;/div&gt;&lt;div&gt;通过03.yaml更新Tag&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="125" x="-815" y="-2035" as="geometry" />
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sync with flux&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tag update with 03.yaml&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="145" x="-820" y="-2031" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-39" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -49,26 +46,17 @@
             <mxPoint x="-630" y="-1995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过flux自动同步&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过03.yaml更新Tag&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="128" x="-814" y="-1938" as="geometry" />
-        </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-42" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-840" y="-1898" as="sourcePoint" />
             <mxPoint x="-627" y="-1898" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过flux自动同步&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过03.yaml更新Tag&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="137" x="-810" y="-1848" as="geometry" />
-        </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-44" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-830" y="-1808" as="sourcePoint" />
             <mxPoint x="-627" y="-1808" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过flux自动同步&lt;/span&gt;&lt;/div&gt;&lt;div&gt;通过05.yaml更新Tag&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="147" x="-801" y="-1610" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-46" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -82,10 +70,10 @@
         <mxCell id="KIh15M4zcNcyPIyLY1yR-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="90" width="280" x="-630" y="-2120" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="5个flux repo+path对象，用于MCP资源同步" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="5 flux objects，to sync remote repo" vertex="1">
           <mxGeometry height="26" width="253.5" x="-613.5" y="-2107" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;github-tool-secret等secret，用于接入git&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;exteranlsecrets，access github or artifact&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="243.5" x="-613.5" y="-2069" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-54" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
@@ -106,7 +94,7 @@
         <mxCell id="KIh15M4zcNcyPIyLY1yR-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="60" width="280" x="-627" y="-2010" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;生成大量命名格式为*-provider-secret的secret，用于crossplane中provider的接入&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;secret like *-provider-secret，used&amp;nbsp; to accss by crossplane&#39;s provider&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="243.5" x="-615" y="-2000" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-62" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
@@ -325,11 +313,23 @@
             <mxPoint x="-470" y="-1584" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="提供secret源" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="Provide secrets" vertex="1">
           <mxGeometry height="30" width="107" x="-504" y="-1950" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-124" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="提供具体定义" vertex="1">
           <mxGeometry height="30" width="107" x="-468" y="-1624" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-126" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sync with flux&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tag update with 03.yaml&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="145" x="-821" y="-1931" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-127" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sync with flux&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tag update with 03.yaml&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="145" x="-817.5" y="-1840" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-128" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sync with flux&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tag update with 03.yaml&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="145" x="-820" y="-1610" as="geometry" />
+        </mxCell>
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-129" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Initial install with 03.yaml&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sync with flux&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tag update with 03.yaml&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="155" x="-828" y="-2134" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

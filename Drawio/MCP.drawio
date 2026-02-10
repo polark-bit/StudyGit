@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.2.9">
   <diagram name="Page-1" id="WU1aQ6R0aBonu499355e">
-    <mxGraphModel dx="3938" dy="4155" grid="1" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15" pageHeight="750" math="0" shadow="0">
+    <mxGraphModel dx="3384" dy="3924" grid="1" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15" pageHeight="750" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,16 +190,16 @@
         <mxCell id="KIh15M4zcNcyPIyLY1yR-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="200" width="277" x="-627" y="-1820" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;Ali(或其他hyperscaler）提供的Provider，比如oss，ram等&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;Ali(or other hyperscaler ) Provider，like oss，ram etc.&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="258" x="-618" y="-1780" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;SAP提供的Provider资源，比如btp，cf等&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;SAP Provider resouce，like btp, cf etc.&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="258" x="-618" y="-1810" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;Common资源，比如runtimeconfig，公用的function，provider(http, k8s)&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;Common resource: runtimeconfig，public function，provider(http, k8s)&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="258" x="-618" y="-1730" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;Configuration资源，不同provider所提供xrd/composition资源的package&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;Configuration: XRD/composition definition packages for different provider&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="260.75" x="-620.75" y="-1680" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-88" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -208,11 +208,11 @@
         <mxCell id="KIh15M4zcNcyPIyLY1yR-89" parent="KIh15M4zcNcyPIyLY1yR-88" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="77.14285714285714" width="328.99999999999994" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-90" parent="KIh15M4zcNcyPIyLY1yR-88" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/configuration-*-*&lt;div&gt;比如configuration-btp-module, configuraion-gardener-shoot, configuration-secret- replicate, configuration-ali-module等, XRD/composition的具体定义&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-90" parent="KIh15M4zcNcyPIyLY1yR-88" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/configuration-*-*&lt;div&gt;比如configuration-btp-module, configuraion-gardener-shoot, configuration-secret- replicate, configuration-ali-module, it includes XRD/composition definition&lt;/div&gt;" vertex="1">
           <mxGeometry height="101.25" width="324.45" x="4" y="-12.048750000000041" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="build后上传到docker repo供下载" vertex="1">
-          <mxGeometry height="30" width="117" x="-808.5" y="-1706" as="geometry" />
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Pull from docker repo&amp;nbsp;" vertex="1">
+          <mxGeometry height="26" width="138.5" x="-808.5" y="-1706" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-94" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -223,16 +223,16 @@
         <mxCell id="KIh15M4zcNcyPIyLY1yR-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="280" width="277" x="-624" y="-1580" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="IAS资源定义" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="IAS" vertex="1">
           <mxGeometry height="30" width="258" x="-615" y="-1534" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;GenericOSS相关资源定义，用于存储&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;GenericOSS: used for storage&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="258" x="-615" y="-1570" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;secretpull资源定义，通过externalsecret方式从vault拉取secret并复制到AI Core cluster&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;secretpull: use externalsecret to pull secret from vault and replicate to AI Core cluster&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="258" x="-615" y="-1490" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;&amp;nbsp;shoot相关资源定义，用于创建AI core相关shoot 资源&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;&amp;nbsp;shoot and related resource&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="260.75" x="-617.75" y="-1440" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;fontColor=light-dark(#000000,#9933FF);" value="Git Repositories" vertex="1">
@@ -247,7 +247,7 @@
         <mxCell id="KIh15M4zcNcyPIyLY1yR-106" parent="KIh15M4zcNcyPIyLY1yR-105" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="320" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-107" parent="KIh15M4zcNcyPIyLY1yR-105" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-claims&lt;div&gt;path: distribution/umbrella/ENV&lt;/div&gt;&lt;div&gt;功能：属于dry manifest，主要用于调试&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-107" parent="KIh15M4zcNcyPIyLY1yR-105" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-claims&lt;div&gt;path: distribution/umbrella/ENV&lt;/div&gt;&lt;div&gt;Function：dry manifest for validation and review&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="326" x="1" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-108" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -256,7 +256,7 @@
         <mxCell id="KIh15M4zcNcyPIyLY1yR-109" parent="KIh15M4zcNcyPIyLY1yR-108" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="71" width="329" y="-11" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-110" parent="KIh15M4zcNcyPIyLY1yR-108" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/component-btp-module&lt;div&gt;Repo: aicore-platform/component-gardener-module&lt;/div&gt;&lt;div&gt;功能：用于灵活的增减和调整组件功能&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-110" parent="KIh15M4zcNcyPIyLY1yR-108" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/component-btp-module&lt;div&gt;Repo: aicore-platform/component-gardener-module&lt;/div&gt;&lt;div&gt;Function：to adjust components flexibly&lt;/div&gt;" vertex="1">
           <mxGeometry height="59.2" width="324.45" x="2.2800000000000002" y="-11" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-111" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
@@ -265,7 +265,7 @@
             <mxPoint x="-1020" y="-1535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="生成 wet manifest" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="Generate wet manifest" vertex="1">
           <mxGeometry height="30" width="147" x="-1020" y="-1530" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-113" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
@@ -274,13 +274,13 @@
             <mxPoint x="-1020" y="-1383" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="调用component资源" vertex="1">
-          <mxGeometry height="30" width="147" x="-1009" y="-1423" as="geometry" />
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="Involve component resource" vertex="1">
+          <mxGeometry height="30" width="169" x="-1009" y="-1423" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;subaccount类资源，创建btp相关service，他们secret也是vault获取并复制到AI core的cluster里面&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;subaccount: create btp related service/instance, it also pull secret and replicate to AI Core cluster&lt;/div&gt;" vertex="1">
           <mxGeometry height="56" width="260.75" x="-620.38" y="-1396" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;EnvironmentConfig，基本的环境参数&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;EnvironmentConfig: basic config data&lt;/div&gt;" vertex="1">
           <mxGeometry height="25" width="260.75" x="-620.37" y="-1330" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-117" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;endFill=0;" value="">
@@ -316,8 +316,8 @@
         <mxCell id="KIh15M4zcNcyPIyLY1yR-123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="Provide secrets" vertex="1">
           <mxGeometry height="30" width="107" x="-504" y="-1950" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-124" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="提供具体定义" vertex="1">
-          <mxGeometry height="30" width="107" x="-468" y="-1624" as="geometry" />
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-124" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="Provide resource definition" vertex="1">
+          <mxGeometry height="30" width="107" x="-465" y="-1620" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-126" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sync with flux&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tag update with 03.yaml&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="145" x="-821" y="-1931" as="geometry" />

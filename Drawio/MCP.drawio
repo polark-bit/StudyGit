@@ -1,15 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.2.9">
   <diagram name="Page-1" id="WU1aQ6R0aBonu499355e">
-    <mxGraphModel dx="3790" dy="4087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15" pageHeight="750" math="0" shadow="0">
+    <mxGraphModel dx="4236" dy="4155" grid="1" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="15" pageHeight="750" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HisjigNUrc_OGdf7XeUD-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-1185" y="-2590.79" as="sourcePoint" />
-            <mxPoint x="350" y="-2590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="170" width="380" x="-660" y="-2350" as="geometry" />
         </mxCell>
@@ -19,7 +13,7 @@
         <mxCell id="KIh15M4zcNcyPIyLY1yR-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;引用aicore-actions/release-workflows中&lt;/div&gt;00.yaml，通过kubectl apply部署" vertex="1">
           <mxGeometry height="45" width="160" x="-830" y="-2325" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;labelBackgroundColor=default;fontSize=15;" value="MCP seed" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;labelBackgroundColor=default;fontSize=15;" value="MCP seed&amp;nbsp;&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="107" x="-487" y="-2370" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -82,7 +76,7 @@
             <mxPoint x="-625" y="-1570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;labelBackgroundColor=default;fontSize=15;" value="MCP (Preprod-cn40)" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;labelBackgroundColor=default;fontSize=15;" value="MCP (Preprod-cn40)&amp;nbsp;&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="162" x="-512" y="-2160" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeWidth=2;" value="" vertex="1">
@@ -155,10 +149,10 @@
           <mxGeometry height="60" width="274" x="-1114" y="-2300" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-11" parent="KIh15M4zcNcyPIyLY1yR-74" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="294" x="-20" as="geometry" />
+          <mxGeometry height="60" width="314" x="-40" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-12" parent="KIh15M4zcNcyPIyLY1yR-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="Repo:&amp;nbsp;aicore-platform/aicore-mcp&lt;div&gt;path:&amp;nbsp;distribution/umbrella/overlays/ENV&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="215" x="9" as="geometry" />
+          <mxGeometry height="60" width="215" x="-26" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-75" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="60" width="322" x="-1150" y="-2125" as="geometry" />
@@ -254,13 +248,10 @@
           <mxGeometry height="40" width="260.75" x="-617.75" y="-1440" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;fontColor=light-dark(#000000,#9933FF);" value="Git Repositories" vertex="1">
-          <mxGeometry height="30" width="232" x="-1105" y="-2400" as="geometry" />
+          <mxGeometry height="30" width="232" x="-1105" y="-2410" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;fontColor=light-dark(#000000,#9933FF);labelBackgroundColor=default;" value="Controlplane Clusters" vertex="1">
           <mxGeometry height="30" width="232" x="-577" y="-2410" as="geometry" />
-        </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;fontColor=light-dark(#000000,#9933FF);labelBackgroundColor=default;" value="AI Core Clusters" vertex="1">
-          <mxGeometry height="30" width="232" x="-15" y="-2400" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-105" connectable="0" parent="1" style="group;fontSize=13;" value="" vertex="1">
           <mxGeometry height="60" width="330" x="-1162" y="-1493" as="geometry" />

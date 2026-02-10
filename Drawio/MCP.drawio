@@ -94,7 +94,7 @@
         <mxCell id="KIh15M4zcNcyPIyLY1yR-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="60" width="280" x="-627" y="-2010" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;secret like *-provider-secret，used&amp;nbsp; to accss by crossplane&#39;s provider&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;secret like *-provider-secret，used&amp;nbsp; by providerconfig&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="243.5" x="-615" y="-2000" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-62" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
@@ -106,7 +106,7 @@
         <mxCell id="KIh15M4zcNcyPIyLY1yR-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="60" width="280" x="-625" y="-1910" as="geometry" />
         </mxCell>
-        <mxCell id="KIh15M4zcNcyPIyLY1yR-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;生成providerconfig，主要定义provider连接&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的认证凭证&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="KIh15M4zcNcyPIyLY1yR-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div class=&quot;lake-content&quot;&gt;providerconfig，access credential for provider&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="243.5" x="-613" y="-1900" as="geometry" />
         </mxCell>
         <mxCell id="KIh15M4zcNcyPIyLY1yR-68" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 1;" value="">
